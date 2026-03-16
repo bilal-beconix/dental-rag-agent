@@ -9,3 +9,6 @@ chromadb
 unstructured
 tiktoken
 pypdf
+fastapi
+uvicorn[standard]
+pydantic
